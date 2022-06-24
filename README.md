@@ -51,7 +51,7 @@ A project from my Cyber Security Bootcamp. It displays my ability in Docker, ELK
 -----
 
  - Offensive
-    - John the Ripper, NMap, Zenmap, Nessus, Hashcat, Metasploit
+    - John the Ripper, NMap, Zenmap, Nessus, Hashcat, Metasploit, Burp Suite
  - Defensive 
     - Wireshark, ELK, Splunk, 
  - Other
