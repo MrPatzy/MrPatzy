@@ -20,11 +20,11 @@ Welcome, my name is Zachary "Patzy" Patz and I am an aspiring penetration tester
  Colorado, USA
 
 ### Profession
- Former Chef working in restaurants until I can land my first job in Cyber Security. 
+ Cyber Security Teaching Assistant looking for my first job in Cyber Security. 
 
 ### Education
- High School Diploma - 2008,
- Culinary Arts Certificate - 2010
+ High School Diploma - 2008, \n
+ Culinary Arts Certificate - 2010 \n
  Cyber Security Boot Camp Certificate - 2022
 
 ### Certificates
