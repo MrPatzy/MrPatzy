@@ -1,11 +1,11 @@
-# MrPatzy - Future Penetration Tester
+# MrPatzy
 
 Hello and welcome to my GitHub profile.
 
 # About
 -----
 
-Welcome, my name is Zachary "Patzy" Patz and I am an aspiring penetration tester. I've been a professional cook for the last 12 years and I have been a chef for two of those years. I love to travel and I lived abroad in Italy while working in restaurants. I studied Italian on my own and became conversational, in doing so I found a love for languages. I have studied Spanish, German, Italian, and Arabic is my newest language. I'm entering the cyber security realm with both feet and I know exactly where I want to end up. I am excited to share my journey with you. 
+Welcome, my name is Zachary "Patzy" Patz and I am an IT Manager for a Hospitality Company. Before that I was a professional cook for the last 12 years and I have been a chef for two of those years. I love to travel and I lived abroad in Italy while working in restaurants. I studied Italian on my own and became conversational, in doing so I found a love for languages. I have studied Spanish, German, Italian, and Arabic is my newest language. I'm entering the cyber security realm with both feet and I know exactly where I want to end up. I am excited to share my journey with you. 
 
 # Basic Information
 -----
@@ -14,13 +14,13 @@ Welcome, my name is Zachary "Patzy" Patz and I am an aspiring penetration tester
  Patzy
 
 ### Age
- 31
+ 34
 
 ### Location
  Colorado, USA
 
 ### Profession
- Cyber Security Teaching Assistant looking for my first job in Cyber Security. 
+ IT Manager for Northwood Hospitality
 
 ### Education
  High School Diploma - 2008,
